@@ -31,7 +31,7 @@ make
 ### Run
 
 ```
-./main [path_to_XML]
+./main [*path_to_XML*]
 ```
 
 ## Versioning
@@ -40,7 +40,7 @@ We use [github](https://github.com/) for versioning.
 
 ## Authors
 
-* **Xudong Liu** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Xudong Liu** - [Homepage](https://www.unf.edu/~xudong.liu/)
 
 
 ## License
