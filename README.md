@@ -30,7 +30,7 @@ make
 
 ### Run
 
-`./main[`*path_to_XML*`]`
+`./main[`*`path_to_XML`*`]`
 
 ## Versioning
 
@@ -38,7 +38,7 @@ We use [github](https://github.com/) for versioning.
 
 ## Authors
 
-* **Xudong Liu** - [Homepage](https://www.unf.edu/~xudong.liu/)
+* [Xudong Liu](https://www.unf.edu/~xudong.liu/)
 
 
 ## License
