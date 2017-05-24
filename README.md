@@ -48,4 +48,6 @@ This project is currently not under any license.
 ## Acknowledgments
 
 * Inspiration
+* GitHub Flavored Markdown
+* Doxygen
 * etc
