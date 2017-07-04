@@ -30,7 +30,7 @@ make
 
 ### Run
 
-`./main`*`path_to_XML`*
+`./produce`*`path_to_XML`*
 
 ## Versioning
 
