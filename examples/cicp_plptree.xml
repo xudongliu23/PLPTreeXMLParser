@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<child xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../src/cicp_plptree_xml_parser.xsd">
+	<attribute>Safety</attribute>
+	<preference>med:high</preference>
+	<preference>high:low</preference>
+	<child>
+		<attribute>MaintPrice</attribute>
+		<preference>low:high</preference>
+		<preference>high:med</preference>
+		<preference>med:vhigh</preference>
+		<child>
+			<!-- -->
+		</child>
+		<child>
+			<!-- -->
+		</child>
+		<child>
+			<!-- -->
+		</child>
+		<child>
+			<!-- -->
+		</child>
+	</child>
+	<child>
+		<attribute>Doors</attribute>
+		<preference>2:5more</preference>
+		<preference>5more:4</preference>
+		<preference>4:3</preference>
+		<child>
+			<!-- -->
+		</child>
+		<child>
+			<!-- -->
+		</child>
+		<child>
+			<!-- -->
+		</child>
+		<child>
+			<!-- -->
+		</child>
+	</child>
+	<child>
+		<!-- -->
+	</child>
+</child>

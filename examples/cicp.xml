@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<child xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../src/cicp_plptree_xml_parser.xsd">
+	<attribute>BodyType</attribute>
+	<preference>v:s</preference>
+	<preference>s:r</preference>
+	<child>
+		<attribute>Make</attribute>
+		<preference>h:f</preference>
+		<child><!-- --></child>
+		<child>
+			<attribute>Price</attribute>
+			<preference>l:d</preference>
+			<preference>d:g</preference>
+			<child><!-- --></child>
+			<child><!-- --></child>
+			<child><!-- --></child>
+		</child>
+	</child>
+	<child>
+		<attribute>Price</attribute>
+		<preference>d:l</preference>
+		<preference>l:g</preference>
+		<child><!-- --></child>
+		<child><!-- --></child>
+		<child><!-- --></child>
+	</child>
+	<child>
+		<attribute>Transmission</attribute>
+		<preference>m:a</preference>
+		<child><!-- --></child>
+		<child><!-- --></child>
+	</child>
+</child>
